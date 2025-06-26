@@ -55,14 +55,20 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 > No additional input is required during execution. The program reads from predefined input files for demonstration purposes.
 
-## Team Members and Contributions
+## 👥 Team Members and Contributions
 
-| Name             | GitHub Username        | Contribution                       |
-| ---------------- | ---------------------- | ---------------------------------- |
-| Nusrath Jahan Shawon  | Shawon-NusrathJahan | Divide and Conquer Implementation  |
-| Suraia Tabassoom Ruhi | `member2-username`     | Dynamic Programming (0/1 Knapsack) |
-| Sumaia Tarannoom Mahi | `member3-username`     | Greedy (Activity Selection)        |
+- **Nusrath Jahan Shawon**  
+  GitHub: *Shawon-NusrathJahan*  
+  Role: Divide and Conquer Implementation
 
+- **Suraia Tabassoom Ruhi**  
+  GitHub: *member2-username*  
+  Role: Dynamic Programming (0/1 Knapsack)
+
+- **Sumaia Tarannoom Mahi**  
+  GitHub: *member3-username*  
+  Role: Greedy Algorithm (Activity Selection)
+  
 
 ## Future Enhancements
 
