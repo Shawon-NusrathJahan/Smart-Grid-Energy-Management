@@ -16,8 +16,8 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 | Method               | Algorithm Used              |
 |----------------------|-----------------------------|
-| Divide and Conquer   | _[Algorithm to be inserted]_ |
-| Dynamic Programming  | 0/1 Knapsack Problem         |
+| Divide and Conquer   | Recursive Averaging Algorithm|
+| Dynamic Programming  | [----]        |
 | Greedy Algorithm     | Activity Selection Problem   |
 
 ## Technologies Used
@@ -38,11 +38,11 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 - **Nusrath Jahan Shawon**  
   GitHub: *Shawon-NusrathJahan*  
-  Role: Divide and Conquer Implementation
+  Role: Divide and Conquer (Recursive Averaging Algorithm)
 
 - **Suraia Tabassoom Ruhi**  
   GitHub: *member2-username*  
-  Role: Dynamic Programming (0/1 Knapsack)
+  Role: Dynamic Programming (---)
 
 - **Sumaia Tarannoom Mahi**  
   GitHub: *member3-username*  
