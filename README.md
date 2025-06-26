@@ -59,9 +59,9 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 | Name             | GitHub Username        | Contribution                       |
 | ---------------- | ---------------------- | ---------------------------------- |
-| Nusrath Jahan Shawon       | `your-github-username` | Divide and Conquer Implementation  |
-| \[Member 2 Name] | `member2-username`     | Dynamic Programming (0/1 Knapsack) |
-| \[Member 3 Name] | `member3-username`     | Greedy (Activity Selection)        |
+| Nusrath Jahan Shawon  | Shawon-NusrathJahan | Divide and Conquer Implementation  |
+| Suraia Tabassoom Ruhi | `member2-username`     | Dynamic Programming (0/1 Knapsack) |
+| Sumaia Tarannoom Mahi | `member3-username`     | Greedy (Activity Selection)        |
 
 
 ## Future Enhancements
