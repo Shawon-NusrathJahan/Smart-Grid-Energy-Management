@@ -26,34 +26,13 @@ Each method is represented by a classic algorithm and implemented in a way that 
 - Input Method: **File-based input**
 - Console output with sample cases included
 
-## How to Run
+## Requirements to Run
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+- A C++ compiler supporting **C++17** standard or higher (e.g., GCC 7+, Clang 5+, MSVC 2017+)
+- Any modern IDE or code editor such as **Code::Blocks**, **Visual Studio Code**, or **CLion**
+- Command-line access to compile and run the program (optional but recommended)
 
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd your-repo-name
-   ```
-
-3. **Compile and run the file** (on Linux/macOS):
-
-   ```bash
-   g++ main.cpp -o program
-   ./program
-   ```
-
-   Or (on Windows):
-
-   ```bash
-   g++ main.cpp -o program.exe
-   program.exe
-   ```
-
-> No additional input is required during execution. The program reads from predefined input files for demonstration purposes.
+> **Note:** No manual input is needed during execution. The program automatically reads from predefined input files included in the repository for demonstration purposes.
 
 ## 👥 Team Members and Contributions
 
