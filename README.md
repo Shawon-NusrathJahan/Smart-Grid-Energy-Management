@@ -11,9 +11,8 @@ This is a console-based C++ program developed as a course project to demonstrate
 
 Each method is represented by a classic algorithm and implemented in a way that showcases both logic and practical use. This project was built by a team of three members, with equal contribution and clearly defined responsibilities.
 
----
 
-## 🧠 Algorithms Implemented
+## Algorithms Implemented
 
 | Method               | Algorithm Used              |
 |----------------------|-----------------------------|
@@ -21,17 +20,13 @@ Each method is represented by a classic algorithm and implemented in a way that 
 | Dynamic Programming  | 0/1 Knapsack Problem         |
 | Greedy Algorithm     | Activity Selection Problem   |
 
----
-
-## 🛠 Technologies Used
+## Technologies Used
 
 - Language: **C++**
 - Input Method: **File-based input**
 - Console output with sample cases included
 
----
-
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**:
    ```bash
@@ -60,9 +55,7 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 > No additional input is required during execution. The program reads from predefined input files for demonstration purposes.
 
----
-
-## 👥 Team Members and Contributions
+## Team Members and Contributions
 
 | Name             | GitHub Username        | Contribution                       |
 | ---------------- | ---------------------- | ---------------------------------- |
@@ -70,28 +63,23 @@ Each method is represented by a classic algorithm and implemented in a way that 
 | \[Member 2 Name] | `member2-username`     | Dynamic Programming (0/1 Knapsack) |
 | \[Member 3 Name] | `member3-username`     | Greedy (Activity Selection)        |
 
----
 
-## 🌱 Future Enhancements
+## Future Enhancements
 
 * Implement additional algorithms for each strategy
 * Introduce a **menu-driven system** for user interaction
 * Allow **real-time input** via the console or config file
 * Optional: Add a **GUI** (Graphical User Interface) for visualization
 
----
-
-## 📂 File Structure
+## File Structure
 
 ```bash
 📁 Smart-Grid-Energy-Management/
 └── main.cpp           # Single source file containing all algorithm implementations
 └── input/             # Folder containing input files for each algorithm
-```
+````
 
----
-
-## 📌 Notes
+## Notes
 
 * This project was developed as a group coursework assignment.
 * It serves as a demonstration of understanding algorithmic problem-solving approaches.
