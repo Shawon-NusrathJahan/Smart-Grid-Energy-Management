@@ -16,9 +16,9 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 | Method               | Algorithm Used              |
 |----------------------|-----------------------------|
-| Divide and Conquer   | Recursive Averaging Algorithm|
+| Divide and Conquer   | [----]|
 | Dynamic Programming  | [----]        |
-| Greedy Algorithm     | Activity Selection Problem   |
+| Greedy Algorithm     | [----]  |
 
 ## Technologies Used
 
@@ -38,7 +38,7 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 - **Nusrath Jahan Shawon**  
   GitHub: *Shawon-NusrathJahan*  
-  Role: Divide and Conquer (Recursive Averaging Algorithm)
+  Role: Divide and Conquer (---)
 
 - **Suraia Tabassoom Ruhi**  
   GitHub: *member2-username*  
@@ -46,7 +46,7 @@ Each method is represented by a classic algorithm and implemented in a way that 
 
 - **Sumaia Tarannoom Mahi**  
   GitHub: *member3-username*  
-  Role: Greedy Algorithm (Activity Selection)
+  Role: Greedy Algorithm (---)
   
 
 ## Future Enhancements
