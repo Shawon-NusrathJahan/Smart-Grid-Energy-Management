@@ -37,6 +37,8 @@ A simple C++ console-based group project that demonstrates algorithmic problem-s
 - Any modern IDE or code editor such as *Code::Blocks*, *Visual Studio Code*, or *CLion*
 - Command-line access to compile and run the program (optional but recommended)
 
+---
+
 ## Team Members and Contributions
 
 - **Nusrath Jahan Shawon**  
@@ -60,7 +62,8 @@ A simple C++ console-based group project that demonstrates algorithmic problem-s
 * Allow real-time input via the console or config file
 * Optional: Add a GUI (Graphical User Interface) for visualization
 
-> Notes
 
-* This project was developed as a group coursework assignment.
-* It serves as a demonstration of understanding algorithmic problem-solving approaches.
+---
+> Notes
+>* This project was developed as a group coursework assignment.
+>* It serves as a demonstration of understanding algorithmic problem-solving approaches.
