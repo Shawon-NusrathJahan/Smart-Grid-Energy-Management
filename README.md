@@ -11,7 +11,6 @@ A simple C++ console-based group project that demonstrates algorithmic problem-s
 | Divide and Conquer    | `forecastDemand`      | Recursive Averaging + Heuristic      | Forecasts hourly energy demand based on historical data                |
 | Dynamic Programming   | `optimizeEnergyDispatch` | Cost-Minimizing Dispatch             | Optimally schedules energy dispatch to minimize cost and balance load  |
 | Greedy Algorithm      | `scheduleMaintenance` | Uptime-Based Greedy Selection        | Schedules maintenance while preserving minimum grid capacity           |
-| Greedy Algorithm      | `emergencyReschedule` | Capacity-Based Prioritized Reactivation | Handles generator reactivation in emergencies                      |
 
 
 ## Features
@@ -37,7 +36,7 @@ A simple C++ console-based group project that demonstrates algorithmic problem-s
 - Any modern IDE or code editor such as *Code::Blocks*, *Visual Studio Code*, or *CLion*
 - Command-line access to compile and run the program (optional but recommended)
 
----
+
 
 ## Team Members and Contributions
 
@@ -63,7 +62,6 @@ A simple C++ console-based group project that demonstrates algorithmic problem-s
 * Optional: Add a GUI (Graphical User Interface) for visualization
 
 
----
 > Notes
 >* This project was developed as a group coursework assignment.
 >* It serves as a demonstration of understanding algorithmic problem-solving approaches.
