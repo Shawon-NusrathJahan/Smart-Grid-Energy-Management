@@ -1,70 +1,66 @@
 # Smart-Grid-Energy-Management
-A simple console-based group project showcasing algorithmic problem-solving using three core approaches: Dynamic Programming, Divide and Conquer, and Greedy Algorithms. Developed as part of a course assignment to demonstrate understanding of these fundamental techniques. Future improvements may be added based on feedback or extended requirements.
+A simple C++ console-based group project that demonstrates algorithmic problem-solving using three core approaches: Dynamic Programming, Divide and Conquer, and Greedy Algorithms, applied to realistic smart grid energy management tasks.
+. Developed as part of a course assignment to demonstrate understanding of these fundamental techniques. Future improvements may be added based on feedback or extended requirements.
 
 ---
 
-This is a console-based C++ program developed as a course project to demonstrate the implementation of three fundamental algorithmic approaches:
-
-- **Divide and Conquer**
-- **Dynamic Programming**
-- **Greedy Algorithms**
-
-Each method is represented by a classic algorithm and implemented in a way that showcases both logic and practical use. This project was built by a team of three members, with equal contribution and clearly defined responsibilities.
-
-
 ## Algorithms Implemented
 
-| Method               | Algorithm Used              |
-|----------------------|-----------------------------|
-| Divide and Conquer   | [----]|
-| Dynamic Programming  | [----]        |
-| Greedy Algorithm     | [----]  |
+| Strategy              | Function              | Algorithm Used                      | Purpose                                                                 |
+|-----------------------|-----------------------|--------------------------------------|-------------------------------------------------------------------------|
+| Divide and Conquer    | `forecastDemand`      | Recursive Averaging + Heuristic      | Forecasts hourly energy demand based on historical data                |
+| Dynamic Programming   | `optimizeEnergyDispatch` | Cost-Minimizing Dispatch             | Optimally schedules energy dispatch to minimize cost and balance load  |
+| Greedy Algorithm      | `scheduleMaintenance` | Uptime-Based Greedy Selection        | Schedules maintenance while preserving minimum grid capacity           |
+| Greedy Algorithm      | `emergencyReschedule` | Capacity-Based Prioritized Reactivation | Handles generator reactivation in emergencies                      |
+
+
+## Features
+
+- Load forecasting using time-adjusted recursive smoothing
+- Cost-optimized energy dispatch planning with battery usage
+- Maintenance scheduling based on generator uptime
+- Emergency rescheduling to restore capacity
+- Modular, maintainable code structure using C++17 features
+
 
 ## Technologies Used
 
 - Language: **C++**
-- Input Method: **File-based input**
-- Console output with sample cases included
+- Standard: **C++17**
+- Input: Predefined data arrays
+- Output: Console-based output with detailed steps and final results
+
 
 ## Requirements to Run
 
-- A C++ compiler supporting **C++17** standard or higher (e.g., GCC 7+, Clang 5+, MSVC 2017+)
-- Any modern IDE or code editor such as **Code::Blocks**, **Visual Studio Code**, or **CLion**
+- A C++ compiler supporting *C++17* standard or higher (e.g., GCC 7+, Clang 5+, MSVC 2017+)
+- Any modern IDE or code editor such as *Code::Blocks*, *Visual Studio Code*, or *CLion*
 - Command-line access to compile and run the program (optional but recommended)
 
-> **Note:** No manual input is needed during execution. The program automatically reads from predefined input files included in the repository for demonstration purposes.
-
-## 👥 Team Members and Contributions
+## Team Members and Contributions
 
 - **Nusrath Jahan Shawon**  
   GitHub: *Shawon-NusrathJahan*  
-  Role: Divide and Conquer (---)
+  Responsibility: Divide and Conquer
 
 - **Suraia Tabassoom Ruhi**  
-  GitHub: *member2-username*  
-  Role: Dynamic Programming (---)
+  GitHub: *std1305*  
+  Responsibility: Dynamic Programming
 
 - **Sumaia Tarannoom Mahi**  
-  GitHub: *member3-username*  
-  Role: Greedy Algorithm (---)
+  GitHub: *std2003*  
+  Responsibility: Greedy Algorithm
   
 
 ## Future Enhancements
 
+* Visualize energy dispatch using charts
 * Implement additional algorithms for each strategy
-* Introduce a **menu-driven system** for user interaction
-* Allow **real-time input** via the console or config file
-* Optional: Add a **GUI** (Graphical User Interface) for visualization
+* Extend to real-time monitoring and adjustments
+* Allow real-time input via the console or config file
+* Optional: Add a GUI (Graphical User Interface) for visualization
 
-## File Structure
-
-```bash
-📁 Smart-Grid-Energy-Management/
-└── main.cpp           # Single source file containing all algorithm implementations
-└── input/             # Folder containing input files for each algorithm
-````
-
-## Notes
+> Notes
 
 * This project was developed as a group coursework assignment.
 * It serves as a demonstration of understanding algorithmic problem-solving approaches.
