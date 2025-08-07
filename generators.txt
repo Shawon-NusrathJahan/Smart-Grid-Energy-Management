@@ -1,4 +1,4 @@
-# id, name, max output (MW), cost per MWh ($), uptime hours remaining until maintenance
+# id, name, max output (MW), cost per MWh ($), uptime hours 
 1 GenA 50 30 100
 2 GenB 30 25 50
 3 GenC 60 40 70

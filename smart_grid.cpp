@@ -1,7 +1,3 @@
-// Smart Grid Energy Management System
-// Automatically loads generators, battery, and historical demand at startup.
-// Forecast is generated using D&C algorithm and reused throughout.
-
 #include <bits/stdc++.h>
 using namespace std;
 
