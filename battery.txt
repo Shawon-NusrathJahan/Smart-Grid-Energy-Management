@@ -1,0 +1,2 @@
+# capacity (MWh), charge efficiency (0–1), discharge efficiency (0–1), initial charge (MWh)
+100 0.9 0.9 50

@@ -1,0 +1,11 @@
+# id, name, max output (MW), cost per MWh ($), uptime hours remaining until maintenance
+1 GenA 50 30 100
+2 GenB 30 25 50
+3 GenC 60 40 70
+4 GenD 80 35 120
+5 GenE 45 28 90
+6 GenF 100 50 150
+7 GenG 20 20 40
+8 GenH 75 33 110
+9 GenI 55 32 85
+10 GenJ 90 38 130
